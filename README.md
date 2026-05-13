@@ -51,25 +51,12 @@ I enjoy turning complex problems into simple, efficient solutions and constantly
 
 A real-time trading signal platform with a custom backend and modern frontend.
 
-**Highlights:**
-- Real-time signal generation system
-- Support/Resistance + RSI based strategy
-- Smart signal categorization (favorite, active, closed)
-- High-frequency scanning engine
-- Web dashboard with clean UI
-
 ---
 
 ### 🤖 AI-Powered Java Quiz Application  
 🔗 https://github.com/ulsctnn/JavaAi  
 
 An interactive quiz system designed to help users learn Java with AI feedback.
-
-**Highlights:**
-- Dynamic question system
-- AI-generated explanations and feedback
-- User score tracking and performance analysis
-- Database-backed result storage
 
 ---
 
@@ -78,12 +65,12 @@ An interactive quiz system designed to help users learn Java with AI feedback.
 
 A modern and responsive portfolio website to showcase my projects and skills.
 
-**Highlights:**
-- Clean and minimal UI/UX
-- Responsive design for all devices
-- Project showcase and contact section
-- Built for personal branding and professional presentation
+---
 
+### 🌐 Dinc Yatirim Insaat Website   
+🔗 https://github.com/ulsctnn/dincyatiriminsaat 
+
+A modern corporate construction and urban transformation website for Dinç Yatırım İnşaat built with a clean and responsive design.
 ---
 
 ## 📫 Contact
