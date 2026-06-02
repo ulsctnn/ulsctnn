@@ -46,31 +46,32 @@ I enjoy turning complex problems into simple, efficient solutions and constantly
 
 ## 📌 My Projects
 
-### 🚀 TradeMaster – Forex Signal Dashboard  
-🔗 https://github.com/ulsctnn/TradeMaster  
+### 🏗️ Dinç Yatırım İnşaat Website
+🌐 https://www.dincyatiriminsaat.com
+
+A modern corporate construction and real estate investment website — built with React, Vite and Tailwind CSS. Features SEO optimization, multilingual support (TR/EN), EmailJS contact form and responsive design.
+
+---
+
+### 🚀 TradeMaster – Forex Signal Dashboard
+🔗 https://github.com/ulsctnn/TradeMaster
 
 A real-time trading signal platform with a custom backend and modern frontend.
 
 ---
 
-### 🤖 AI-Powered Java Quiz Application  
-🔗 https://github.com/ulsctnn/JavaAi  
+### 🤖 AI-Powered Java Quiz Application
+🔗 https://github.com/ulsctnn/JavaAi
 
 An interactive quiz system designed to help users learn Java with AI feedback.
 
 ---
 
-### 🌐 Personal Portfolio Website  
-🔗 https://github.com/ulsctnn/UlasCetinWeb  
+### 🌐 Personal Portfolio Website
+🔗 https://github.com/ulsctnn/UlasCetinWeb
 
 A modern and responsive portfolio website to showcase my projects and skills.
 
----
-
-### 🌐 Dinc Yatirim Insaat Website   
-🔗 https://github.com/ulsctnn/dincyatiriminsaat 
-
-A modern corporate construction and urban transformation website for Dinç Yatırım İnşaat built with a clean and responsive design.
 ---
 
 ## 📫 Contact
